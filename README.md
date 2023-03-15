@@ -20,11 +20,11 @@
                      
    IEEE VSSS               |      VSSS FIRASim         | 
 :-------------------------:|:-------------------------:|
- ![](rsc/vsss.gif)         |   ![](rsc/firasim.png)    |  
+<img src="rsc/vsss.gif" alt="VSSS" height="300" width="450"/>|   <img src="rsc/firasim.png" alt="FIRASim" height="300" width="450"/>    |  
  
  VSSS Referee              | Robotbulls                |   
 :-------------------------:|:-------------------------:| 
-![](rsc/vsssreferee.png)   |![](rsc/robotbulls.gif)    |
+<img src="rsc/vsssreferee.png" alt="VSSSRefereee" height="300" width="450"/>  |<img src="rsc/robotbulls.gif" alt="Robotbulls x Troia" height="300" width="450"/>    |
 
 ---
 
