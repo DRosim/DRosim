@@ -16,15 +16,15 @@
 ---
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" />VSSS</h2>
-
-<img src="rsc/vsss.gif" width="400" height="300"/> <img align="right" src="rsc/firasim.png" width="400" height="300">                
+              
                      
-   IEEE VSSS               |      VSSS FIRASim         |   
+   IEEE VSSS               |      VSSS FIRASim         | 
 :-------------------------:|:-------------------------:|
- ![](rsc/vsss.gif)         |   ![](rsc/firasim.png)    |
-     VSSS Referee          |      RobotBulls           |
-:-------------------------:|:-------------------------:|
- ![](rsc/vsssreferee.png)  |   ![](rsc/robotbulls.gif) |
+ ![](rsc/vsss.gif)         |   ![](rsc/firasim.png)    |  
+ 
+ VSSS Referee              | Robotbulls                |   
+:-------------------------:|:-------------------------:| 
+![](rsc/vsssreferee.png)   |![](rsc/robotbulls.gif)    |
 
 ---
 
