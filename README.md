@@ -41,6 +41,6 @@
 
 <h4 align='center'>
  
-  ![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DaviRosimES/DaviRosimES/blob/output/github-contribution-grid-snake.svg)
 
 <h4 align='center'>
