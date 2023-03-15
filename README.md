@@ -17,7 +17,9 @@
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" />VSSS</h2>
 
-![](rsc/vsss.gif)
+                 |
+![](rsc/vsss.gif)|![rsc/firasim.png]
+                 |    
 
 ---
 
