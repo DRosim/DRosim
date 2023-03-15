@@ -15,7 +15,10 @@
 
 ---
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" />VSSS</h2>
+<h2 align="left">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> 
+    Very Small Size Soccer - VSSS
+</h2>
               
                      
    IEEE VSSS               |      VSSS FIRASim         | 
