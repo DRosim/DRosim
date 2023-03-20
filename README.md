@@ -2,7 +2,7 @@
 
 **`Developer and Researcher`**
 
->I'm Software Engineering student at National Institute of Telecommunication(Inatel), developer and competitor for Robotbulls, working in Very Small Size Soccer(VSSS) category.I'm currently developing research related to control and decision-making algorithms based on machine learning and artificial intelligence.
+>I'm Software Engineering student at National Institute of Telecommunication(Inatel), developer and competitor for Robotbulls, working in Very Small Size Soccer(VSSS) category. I'm currently developing research related to control and decision-making algorithms based on machine learning and artificial intelligence.
 
 <div id="info" align="center">
     <a href="https://www.linkedin.com/in/davirosimes/">
