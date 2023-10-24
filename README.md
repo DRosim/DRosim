@@ -30,17 +30,3 @@
 <img src="rsc/vsssreferee.png" alt="VSSSRefereee" height="300" width="450"/>  |<img src="rsc/robotbulls.gif" alt="Robotbulls x Troia" height="300" width="450"/>    |
 
 ---
-
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Antenna%20Bars.png" alt="Antenna Bars" width="25" height="25" /> Stats</h2>
-
-<div align='center'>
-  <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviRosimES&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRosimES&layout=compact&langs_cont=16&theme=dracula"/>
-</div align='center'>
-
-<h4 align='center'>
- 
-  ![Snake animation](https://github.com/DaviRosimES/DaviRosimES/blob/output/github-contribution-grid-snake.svg)
-
-<h4 align='center'>
