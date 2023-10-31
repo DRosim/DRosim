@@ -24,14 +24,15 @@
 |   IEEE VSSS               |   
 |:-------------------------:|
 |<img src="rsc/vsss.gif" alt="VSSS"/>|
-|:-------------------------:|
+
 |      VSSS FIRASim         |
 |:-------------------------:|
 |<img src="rsc/firasim.png" alt="FIRASim"/>|  
-|:-------------------------:|
+
 | VSSS Referee              |
 |:-------------------------:|
-|<img src="rsc/vsssreferee.png" alt="VSSSRefereee"/>|  
+|<img src="rsc/vsssreferee.png" alt="VSSSRefereee"/>|
+
 | Robotbulls                |
 |:-------------------------:| 
 |<img src="rsc/robotbulls.gif" alt="Robotbulls x Troia"/>|
