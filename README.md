@@ -19,17 +19,17 @@
   <summary>
     <h2 align="left">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> 
-      Mini Football - VSSS
+      Mini Football
     </h2>
   </summary>
   
   | Mini Football | Simulator |
   |:-------------:|:---------:|
-  | <img src="rsc/vsss.gif" alt="VSSS" width="400"/> | <img src="rsc/firasim.png" alt="FIRASim" width="400"/> |
+  | <img src="rsc/vsss.gif" alt="MiniFootball" width="400"/> | <img src="rsc/firasim.png" alt="Simulator" width="400"/> |
 
   | Referee | Robotbulls' game |
   |:-------:|:-----------------:|
-  | <img src="rsc/vsssreferee.png" alt="VSSSReferee" width="400"/> | <img src="rsc/robotbulls.gif" alt="Robotbulls x Troia" width="400"/> |
+  | <img src="rsc/vsssreferee.png" alt="Referee" width="400"/> | <img src="rsc/robotbulls.gif" alt="Robotbulls' game" width="400"/> |
 </details>
 
 
