@@ -2,7 +2,7 @@
 
 **`Developer and Researcher`**
 
->I'm Software Engineering student at National Institute of Telecommunication(Inatel), developer and competitor for Robotbulls, working in Mini Football category. I'm currently developing algorithms related to control and decision-making based on machine learning and artificial intelligence.
+ I'm a Software Engineering student at the National Institute of Telecommunication (Inatel), developer, and competitor for Robotbulls, working in the Mini Football category. My work focuses on control and decision-making algorithms using machine learning and artificial intelligence.
 
 <div id="info" align="center">
     <a href="https://www.linkedin.com/in/davirosimes/">
@@ -15,24 +15,28 @@
 
 ---
 
-<details>
-  <summary>
-    <h2 align="left">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> 
-      Mini Football
-    </h2>
-  </summary>
-  
-  | Mini Football | Simulator |
-  |:-------------:|:---------:|
-  | <img src="rsc/vsss.gif" alt="MiniFootball" width="400"/> | <img src="rsc/firasim.png" alt="Simulator" width="400"/> |
+## 🚀 Projects 
 
-  | Referee | Robotbulls' game |
-  |:-------:|:-----------------:|
-  | <img src="rsc/vsssreferee.png" alt="Referee" width="400"/> | <img src="rsc/robotbulls.gif" alt="Robotbulls' game" width="400"/> |
-</details>
+### 🤖 VSS-Env
+Framework desenvolvido para estudar algoritmos e técnicas de Reinforcement Learning aplicados à categoria IEEE VSSS (Very Small Size Soccer).
+🔗 [Repository](https://github.com/DaviRosimES/VSS-Env)
 
+### 📈 Finance-Analysis
+Análise e predição do preço das ações da Apple (AAPL) utilizando diferentes abordagens de séries temporais, incluindo técnicas estatísticas e aprendizado profundo.
+🔗 [Repository](https://github.com/DaviRosimES/Finance-Analysis)
 
+### 📊 Investment Manage System (IMS)
+Aplicação Java para gestão de ativos financeiros e portfólios de investimentos.
+🔗 [Repository](https://github.com/DaviRosimES/IMS)
 
+---
 
+## 🛠️ Technologies & Tools
+- **Programming Languages:** C++, Python, Java
+- **AI & Robotics:** Computer Vision, Deep Reinforcement Learning, Fuzzy Logic, Behavior Trees
+- **Machine Learning:** Tensowflow, PyTorch, YOLOv8
+- **Development Tools:** Qt Framework, Google Test, PyTest, OpenCV, Protobuf, Docker, AWS, CMake, Shell Script
 
+---
+
+Feel free to reach out! 🚀
