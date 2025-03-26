@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Davi Rosim
 
-I'm a Software Engineering student at the National Institute of Telecommunications (Inatel), developer and researcher for Robotbulls in the IEEE Very Small Size Socccer category. I specialize in developing control and decision-making algorithms, leveraging machine learning and artificial intelligence to enhance robotic performance.
+Sou um estudante de Engenharia de Software no Instituto Nacional de Telecomunicações (Inatel), desenvolvedor e pesquisador da Robotbulls na categoria IEEE Very Small Size Socccer. Desenvolvendo algoritmos de controle e tomada de decisão, alavancando aprendizado de máquina e inteligência artificial para aprimorar o desempenho robótico.
 
 <div id="info" align="center">
     <a href="https://www.linkedin.com/in/davirosimes/">
