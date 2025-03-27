@@ -13,22 +13,6 @@ Sou um estudante de Engenharia de Software no Instituto Nacional de Telecomunica
 
 ---
 
-## 🚀 Projects 
-
-### 🤖 VSS-Env
-Framework desenvolvido para estudar algoritmos e técnicas de Reinforcement Learning aplicados à categoria IEEE VSSS (Very Small Size Soccer).
-🔗 [Repository](https://github.com/DaviRosimES/VSS-Env)
-
-### 📈 Finance-Analysis
-Análise e predição do preço das ações da Apple (AAPL) utilizando diferentes abordagens de séries temporais, incluindo técnicas estatísticas e aprendizado profundo.
-🔗 [Repository](https://github.com/DaviRosimES/Finance-Analysis)
-
-### 📊 Investment Manage System (IMS)
-Aplicação Java para gestão de ativos financeiros e portfólios de investimentos.
-🔗 [Repository](https://github.com/DaviRosimES/IMS)
-
----
-
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** C++, Python, Java
 - **AI & Robotics:** Computer Vision, Deep Reinforcement Learning, Fuzzy Logic, Behavior Trees
