@@ -20,5 +20,3 @@ Sou um estudante de Engenharia de Software no Instituto Nacional de Telecomunica
 - **Development Tools:** Qt Framework, Google Test, PyTest, OpenCV, Protobuf, Docker, AWS, CMake, Shell Script
 
 ---
-
-Feel free to reach out! 🚀
